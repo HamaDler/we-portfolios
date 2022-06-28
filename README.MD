@@ -8,5 +8,5 @@ Harman Muhammad Saed [Portfolio](https://github.com/HarmanSoftware/portfolio)  |
 Abdulbari Qaisar [Portfolio](https://github.com/Abdulbariii/Portfolio) | [View](https://bary010.netlify.app/). </br>
 Shwan Shero Hassan [Portfolio](https://github.com/SHWAN108/Portfolio-Project) | [View](https://shwanshero.netlify.app/). </br>
 Diyari Fariq M salih [Portfolio](https://github.com/dearyfareq/portfolio-final) | [View](https://deary-port.netlify.app/). </br>
-
+Binai Jaza [Portfolio](https://github.com/binaijaza/FirstProject) | [View](https://binayi-graphic.netlify.app/). <br>
 
