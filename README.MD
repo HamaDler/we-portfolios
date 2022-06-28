@@ -7,4 +7,6 @@ Hekar Azwar Mohammed Salih [Portfolio](https://github.com/HekarNizarki/Portfolio
 Harman Muhammad Saed [Portfolio](https://github.com/HarmanSoftware/portfolio)  | [View](https://harmanmuhammad.netlify.app/). </br>
 Abdulbari Qaisar [Portfolio](https://github.com/Abdulbariii/Portfolio) | [View](https://bary010.netlify.app/). </br>
 Shwan Shero Hassan [Portfolio](https://github.com/SHWAN108/Portfolio-Project) | [View](https://shwanshero.netlify.app/). </br>
+Diyari Fariq M salih [Portfolio](https://github.com/dearyfareq/portfolio-final) | [View](https://deary-port.netlify.app/). </br>
+
 
