@@ -15,5 +15,4 @@ Rawaz Ali [Portfolio](https://github.com/rawazali999/rawaz-portfolio) | [View](h
 Shlemon Namrod [Portfolio](https://github.com/Shlemon/about-me) | [View](https://shlemon-namrod.netlify.app//).</br>
 Ahmed Azad [Portfolio](https://github.com/ahmedazadi/me) | [View](https://ahmedazadi.github.io/me/).</br>
 Sana Rizgar [Portfolio](https://github.com/Sanaa00/myportfolio) | [View](https://sanarizgarportfolio.netlify.app/). </br>
-
-
+Zara Qojo [Portfolio](https://github.com/ZaraQojo/Portfolio) | [View](https://zaraqojo.netlify.app/). </br>
