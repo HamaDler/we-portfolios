@@ -27,5 +27,11 @@ Danyar khdir [Portfolio](https://github.com/Danyarkhdir/myPortfolio.git) | [View
 Twana Jirjees [Portfolio](https://github.com/Twana999/personal-portfolio-website) | [View](https://twana-jirjees.netlify.app/). </br>
 Hend Mohammed [Portfolio](https://github.com/hind178/Repository) | [View](https://we-portfolio.netlify.app/). </br>
 Chawan Khalil [Portfolio](https://github.com/Chawa1/My-portfolio) | [View](https://first-portfoilo.netlify.app/).</br>
-Sanarya Hamakarim [Portfolio](https://github.com/sanaryaa/myportfolio) | [View](https://sanarya.netlify.app/) </br>
+Sanarya Hamakarim [Portfolio](https://github.com/sanaryaa/myportfolio) | [View](https://sanarya.netlify.app/)  </br>
+Muhamad xalid [Portfolio](https://github.com/Muhamad-xalid/my-Portfolio) | [View](https://muhamad-xalid.netlify.app/)  </br>
+Xanda Nawzad [Portfolio](https://github.com/XandaNawzad/portfolio-xanda) | [View](https://xandanawzad.netlify.app/) </br>
+Harman Rzgar [Portfolio](https://github.com/HarmanRzgar/Portfolio) | [View](https://harmanrzgar.netlify.app/). </br>
+Eman Jamal [Portfolio](https://github.com/emanjse/portfolio) | [View](https://emanjse.netlify.app/). </br>
 Rebaz Mohsen Avdal [Portfolio](https://github.com/RebazMohsen/portfolio-repo) | [View](rebazmohsen.netlify.app) </br>
+
+
