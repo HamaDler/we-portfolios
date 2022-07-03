@@ -29,4 +29,6 @@ Hend Mohammed  [Portfolio](https://github.com/hind178/Repository) | [View](https
 Chawan Khalil [Portfolio](https://github.com/Chawa1/My-portfolio) | [View](https://first-portfoilo.netlify.app/).</br>
 Sanarya Hamakarim [Portfolio](https://github.com/sanaryaa/myportfolio) | [View](https://sanarya.netlify.app/)  </br>
 Muhamad xalid [Portfolio](https://github.com/Muhamad-xalid/my-Portfolio) | [View](https://muhamad-xalid.netlify.app/)  </br>
+Xanda Nawzad [Portfolio](https://github.com/XandaNawzad/portfolio-xanda) | [View](https://xandanawzad.netlify.app/) </br>
+
 
