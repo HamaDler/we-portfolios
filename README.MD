@@ -4,7 +4,7 @@ Abdulbari Qaisar [Portfolio](https://github.com/Abdulbariii/Portfolio) | [View](
 Muhammad Kadhim Hassan [Portfolio](https://github.com/Muhammadkadhim/Personal_Portfolio) | [View](https://muhammad-kadhim.netlify.app/).</br>
 Bakhtyar Mohammed [Portfolio](https://github.com/Bakhtyar25/portfolio) | [View](https://baxtyar.netlify.app/). </br>
 Hekar Azwar Mohammed Salih [Portfolio](https://github.com/HekarNizarki/Portfolio-Project.git) | [View](https://hekarnizarki.github.io/Portfolio-Project/).</br>
-Harman Muhammad Saed [Portfolio](https://github.com/HarmanSoftware/portfolio)  | [View](https://harmanmuhammad.netlify.app/). </br>
+Harman Muhammad Saed [Portfolio](https://github.com/HarmanSoftware/portfolio) | [View](https://harmanmuhammad.netlify.app/). </br>
 Abdulbari Qaisar [Portfolio](https://github.com/Abdulbariii/Portfolio) | [View](https://bary010.netlify.app/). </br>
 Harman Muhammad Saed [Portfolio](https://github.com/HarmanSoftware/portfolio) | [View](https://harmanmuhammad.netlify.app/). </br>
 Yasir Tawfeq [Portfolio](https://github.com/OKAMI3/Yasir_Tawfeq) | [View](https://yasirtawfeq.netlify.app/). </br>
@@ -24,13 +24,14 @@ Yusif Qasim [Portfolio](https://github.com/YusifQasim/my-webite) | [View](https:
 Othman Yahya [Portfolio](https://github.com/OthmanYahya/WebDevPortfolioProject) | [View](https://othman-yahya.netlify.app/). </br>
 Hero Ibrahim [Portfolio](https://github.com/he-rro/myportfolio) | [View](https://he-rro.github.io/myportfolio/).</br>
 Danyar khdir [Portfolio](https://github.com/Danyarkhdir/myPortfolio.git) | [View](https://danyars-portfolio.netlify.app/). </br>
-Twana Jirjees  [Portfolio](https://github.com/Twana999/personal-portfolio-website) | [View](https://twana-jirjees.netlify.app/).  </br>
-Hend Mohammed  [Portfolio](https://github.com/hind178/Repository) | [View](https://we-portfolio.netlify.app/).  </br>
+Twana Jirjees [Portfolio](https://github.com/Twana999/personal-portfolio-website) | [View](https://twana-jirjees.netlify.app/). </br>
+Hend Mohammed [Portfolio](https://github.com/hind178/Repository) | [View](https://we-portfolio.netlify.app/). </br>
 Chawan Khalil [Portfolio](https://github.com/Chawa1/My-portfolio) | [View](https://first-portfoilo.netlify.app/).</br>
 Sanarya Hamakarim [Portfolio](https://github.com/sanaryaa/myportfolio) | [View](https://sanarya.netlify.app/)  </br>
 Muhamad xalid [Portfolio](https://github.com/Muhamad-xalid/my-Portfolio) | [View](https://muhamad-xalid.netlify.app/)  </br>
 Xanda Nawzad [Portfolio](https://github.com/XandaNawzad/portfolio-xanda) | [View](https://xandanawzad.netlify.app/) </br>
 Harman Rzgar [Portfolio](https://github.com/HarmanRzgar/Portfolio) | [View](https://harmanrzgar.netlify.app/). </br>
 Eman Jamal [Portfolio](https://github.com/emanjse/portfolio) | [View](https://emanjse.netlify.app/). </br>
+Rebaz Mohsen Avdal [Portfolio](https://github.com/RebazMohsen/portfolio-repo) | [View](rebazmohsen.netlify.app) </br>
 
 
