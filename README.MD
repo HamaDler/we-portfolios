@@ -1,6 +1,6 @@
 ## These are the portfolios that WeCode bootcamp participants have created as their first project.
 
-Ala Kawa [Portfolio](https://github.com/AlaaKawa/portfolio) | [View](https://alakawa.netlify.app/). </br>
+Ala Kawa [Portfolio](https://github.com/AlaaKawa/Ala-portfolio) | [View](https://alaakawa.netlify.app/). </br>
 Abdulbari Qaisar [Portfolio](https://github.com/Abdulbariii/Portfolio) | [View](https://bary010.netlify.app/). </br>
 Muhammad Kadhim Hassan [Portfolio](https://github.com/Muhammadkadhim/Personal_Portfolio) | [View](https://muhammad-kadhim.netlify.app/).</br>
 Bakhtyar Mohammed [Portfolio](https://github.com/Bakhtyar25/portfolio) | [View](https://baxtyar.netlify.app/). </br>
