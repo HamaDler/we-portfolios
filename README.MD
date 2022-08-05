@@ -19,7 +19,7 @@ Ahmed Azad [Portfolio](https://github.com/ahmedazadi/me) | [View](https://ahmeda
 Sana Rizgar [Portfolio](https://github.com/Sanaa00/myportfolio) | [View](https://sanarizgarportfolio.netlify.app/). </br>
 Zara Qojo [Portfolio](https://github.com/ZaraQojo/Portfolio) | [View](https://zaraqojo.netlify.app/). </br>
 iman zuher [Portfolio](https://github.com/Imanzuher/portfolio) | [View](https://imanzuher.netlify.app/). </br>
-Shajwan Namiq [Portfolio](https://github.com/Shajwan-Namiq/TestGit) | [View](https://shajwan-namiq.netlify.app/). </br>
+Shajwan Namiq [Portfolio](https://github.com/Shajwan-Namiq/portfolio-using-react) | [View](https://shajwan-namiq.netlify.app/). </br>
 Rebaz Jabar [Portfolio](https://github.com/rebazjabar/portfolio.git) | [View](https://rebazjabar.netlify.app/). </br>
 Yusif Qasim [Portfolio](https://github.com/YusifQasim/my-webite) | [View](https://yusifqasim.netlify.app/). </br>
 Othman Yahya [Portfolio](https://github.com/OthmanYahya/WebDevPortfolioProject) | [View](https://othman-yahya.netlify.app/). </br>
