@@ -38,6 +38,7 @@ Mohammed khalil [Portfolio](https://github.com/Mohammedkhalil-Ali/My-Portfolio) 
 Sara Sardar [Portfolio](https://github.com/Sara-Sardar/sara-portfolio-project) | [View](https://sarasardar-portfolio.netlify.app/) </br>
 Mahmood Wirya [Portfolio](https://github.com/mahmood-wirya/my-portfolio) | [View](https://mahmoodwirya.netlify.app/). </br>
 Hema Dlawar [Portfolio](https://github.com/hemadlawar/PortfolioWebPage-HemaDlawar) | [View](https://hemadlawar.github.io/PortfolioWebPage-HemaDlawar/). </br>
+Tarza Nawzad [Portfolio](https://github.com/TarzaNawzad/Tarza_Portfolio_Tarza) | [View](https://tarza.netlify.app/)
 
 
 
